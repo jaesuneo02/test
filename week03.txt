@@ -1,3 +1,4 @@
 week 03
 
 - git review
+- git command : git pull
